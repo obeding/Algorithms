@@ -1,6 +1,9 @@
 package Chapter1;
 
-//选择排序算法
+ /**
+ * 选择排序算法
+ */
+
 public class selectionSort {
 
 	public static void main(String[] args) {

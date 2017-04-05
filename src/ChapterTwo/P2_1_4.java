@@ -1,6 +1,9 @@
-package Chapter1;
+package ChapterTwo;
 
-//问题：两个分别存储在两个n元数组中的n位二进制整数加起来，存入另一个n+1元数组中
+/**
+ * 问题：两个分别存储在两个n元数组中的n位二进制整数加起来，存入另一个n+1元数组中
+ */
+
 public class P2_1_4 {
 
 	public static void main(String[] args) {

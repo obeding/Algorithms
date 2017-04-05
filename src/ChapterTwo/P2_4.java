@@ -1,4 +1,4 @@
-package Chapter1;
+package ChapterTwo;
 
 /**
  * 确定在n个元素的任何排序中逆序对数量的算法，最坏情况需要O(nlgn)时间

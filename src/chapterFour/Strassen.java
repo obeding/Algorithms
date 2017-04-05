@@ -1,4 +1,4 @@
-package Chapter1;
+package chapterFour;
 
 /**
  * 矩阵乘法的Strassen算法
