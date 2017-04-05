@@ -6,7 +6,7 @@ package ChapterFour;
  *
  * @author obed
  */
-public class MaximumSubarray {
+public class MaximumSubArray {
     /**
      * 暴力求解方法：求出所有情况比较得出最大子数组
      * 时间复杂度：O（n^2）
