@@ -1,4 +1,4 @@
-package chapterFour;
+package ChapterFour;
 
 /**
  * 问题：求最大子数组

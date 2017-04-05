@@ -1,4 +1,4 @@
-package Chapter1;
+package ChapterOne;
 
  /**
  * 选择排序算法
